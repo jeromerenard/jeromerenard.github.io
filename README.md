@@ -1,2 +1,0 @@
-# jre
-Jerome Renard portfolio
